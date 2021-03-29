@@ -26,7 +26,7 @@ Although mining is motivated by token rewards, create new coins, but mining is n
 
 ### Token
 
-As all Para-Chain networks connected to XUT, XUT Para- Chain has its own original token to indicate rights and interests. The token is named MWGo and has a total release of 2.1 billion (2,100,000,000 MWGo).
+As all Para-Chain networks connected to XUT, XUT Para- Chain has its own original token to indicate rights and interests. The token is named MWGo and has a total release of 10 billion MWGo.
 
 MWGo is derived from the spirit of open-source software and is fully compliant with the GPL (General Public License protocol). Therefore, there is no fund-raising behavior, the same, there is no pre-mining, no preset genesis node (the first 500 nodes established after obtaining 1,000 MWGo through user’s stake automatically become genesis nodes) and other developer revenue behavior, all chain behaviors will be recorded by the blockchain.
 
@@ -34,7 +34,7 @@ MWGo is derived from the spirit of open-source software and is fully compliant w
 
 The only way to obtain MWGo is through mining behavior output. Nevertheless, the distribution after MWGo "mining" is distinctive.
 
-In the early stage of blockchain operation, the daily constant output of MWGo was set at 1,440,000 MWGo. To achieve high extensibility and scalability of the Para-Chain, MWGo sets the block output time to be 1 second per block, i.e. 16.666 MWGo per second, (not excluding the appropriate reduction of output distribution by inflation indicator regulation, as described in Fig. 4.3), real-time settlement per second.
+In the early stage of blockchain operation, the daily constant output of MWGo was set at 288,000 MWGo. To achieve high extensibility and scalability of the Para-Chain, MWGo sets the block output time to be 1 second per block, i.e. 16.666 MWGo per second, (not excluding the appropriate reduction of output distribution by inflation indicator regulation, as described in Fig. 4.3), real-time settlement per second.
 
 
 ### Inflation model control
